@@ -6,7 +6,7 @@ This is a backend for an e-commerce site built using Express.js API and Sequeliz
 
 ## Demo
 
-
+[Untitled_ May 4, 2023 7_09 PM.webm](https://user-images.githubusercontent.com/117963379/236349110-1ddca16a-69b2-4c6c-bca8-58b8bca1f268.webm)
 
 ## Technologies
 
